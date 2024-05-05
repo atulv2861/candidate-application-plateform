@@ -1,0 +1,11 @@
+.CardContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;   
+}
+
+.Card{
+    margin: 20px 20px 20px 20px;
+}
